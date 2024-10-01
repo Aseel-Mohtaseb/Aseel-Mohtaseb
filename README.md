@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseel-mohtaseb&label=Profile%20views&color=0e75b6&style=flat" alt="aseel-mohtaseb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aseel-mohtaseb" alt="aseel-mohtaseb" /></a> </p>
-
 - 📫 How to reach me **AseelAmerMohtaseb@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
